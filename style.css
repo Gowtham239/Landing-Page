@@ -16,8 +16,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0;
-    padding: 0;
     width: 70%;
     margin: 0 auto;
 }
@@ -32,8 +30,6 @@ ul {
     list-style: none;
     display: flex;
     gap: 16px;
-    padding: 0;
-    margin: 0;
     font-size: 18px;
 }
 
@@ -115,7 +111,7 @@ ul {
     text-align: center;
 }
 
-.quatation-container {
+.quotation-container {
     background-color: #E5E7EB;
     height: 350px;
     display: flex;
@@ -129,7 +125,7 @@ ul {
     margin: 0 auto;
 }
 
-.quatation {
+.quotation {
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
@@ -165,7 +161,6 @@ ul {
 }
 
 .details {
-    padding: 0;
     margin: 0;
 }
 
